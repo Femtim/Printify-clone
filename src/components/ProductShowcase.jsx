@@ -32,8 +32,8 @@ export class ProductShowcase extends React.Component {
           image: 'stickers.webp'
         },
         {
-          name: 'Tough Phone Cases',
-          image: ''
+          name: 'Phone Cases',
+          image: 'phonecase.png'
         }
       ]
     };
